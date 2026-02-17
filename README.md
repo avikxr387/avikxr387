@@ -8,7 +8,6 @@ I am a Computer Science student passionate about building practical AI and Machi
 - 🤔 I am looking for help with advanced model deployment and scalable ML systems
 - 💬 Ask me about Machine Learning, Python, Data Science, and beginner-to-intermediate AI projects
 - 📫 How to reach me: LinkedIn | Email
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy turning messy real-world data into something that actually makes sense
 
 ---
