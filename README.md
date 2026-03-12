@@ -2,13 +2,13 @@
 
 I am a Computer Science student passionate about building practical AI and Machine Learning solutions that solve real problems.
 
-- 🔭 I am currently working on Machine Learning and AI-based projects
-- 🌱 I am currently learning Deep Learning, NLP, and improving my model optimization skills
-- 👯 I am looking to collaborate on AI, ML, and real-world data projects
-- 🤔 I am looking for help with advanced model deployment and scalable ML systems
-- 💬 Ask me about Machine Learning, Python, Data Science, and beginner-to-intermediate AI projects
-- 📫 How to reach me: LinkedIn | Email
-- ⚡ Fun fact: I enjoy turning messy real-world data into something that actually makes sense
+-  I am currently working on Machine Learning and AI-based projects
+-  I am currently learning Deep Learning, NLP, and improving my model optimization skills
+-  I am looking to collaborate on AI, ML, and real-world data projects
+-  I am looking for help with advanced model deployment and scalable ML systems
+-  Ask me about Machine Learning, Python, Data Science, and beginner-to-intermediate AI projects
+-  How to reach me: LinkedIn | Email
+-  Fun fact: I enjoy turning messy real-world data into something that actually makes sense
 
 ---
 
